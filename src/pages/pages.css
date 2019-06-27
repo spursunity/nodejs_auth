@@ -1,0 +1,27 @@
+.window {
+  width: 350px;
+  height: 350px;
+  border-radius: 10px;
+  margin: 200px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-ok {
+  border: 2px solid #0D5E1B;
+  color: #0D5E1B;
+  background-color: #70FF88;
+}
+
+.user-fail {
+  border: 2px solid #D50E0E;
+  color: #D50E0E;
+  background-color: #EE8989;
+}
+
+.user-created {
+  border: 2px solid #2615C3;
+  color: #2615C3;
+  background-color: #AAA5D7;
+}
