@@ -1,0 +1,36 @@
+.auth-form {
+  margin: 200px auto;
+  width: 30%;
+  padding: 30px;
+  border: 2px solid #33d;
+  border-radius: 10px;
+  background-color: #99f;
+}
+
+.field {
+  display: block;
+  padding: 10px 0;
+  font-size: 25px;
+  color: #fff;
+}
+
+.field input {
+  width: 100%;
+  padding: 5px;
+  height: 1.5rem;
+}
+
+.submit {
+  padding: 10px;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #33d;
+  border: 2px solid #fff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.submit:hover {
+  color: #33d;
+  background-color: #fff;
+}
